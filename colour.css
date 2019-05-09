@@ -1,0 +1,24 @@
+* {
+	margin:0;
+	padding: 0;
+}
+
+header {
+	background: #4F57AA;
+}
+
+body {
+	background: #72818B;
+}
+
+aside {
+	background: #454857;
+	width: 15%;
+}
+
+footer {
+	background: #8F002E;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
